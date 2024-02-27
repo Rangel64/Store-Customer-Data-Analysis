@@ -1,0 +1,10 @@
+branch,month_name,payment_method,month_num,count
+A,February,Ewallet,2,34
+A,January,Ewallet,1,46
+A,March,Ewallet,3,46
+B,February,Cash,2,44
+B,January,Credit card,1,44
+B,March,Ewallet,3,46
+C,February,Cash,2,36
+C,January,Cash,1,48
+C,March,Cash,3,40
